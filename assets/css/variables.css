@@ -1,8 +1,7 @@
 :root {
   --red: #ff2200;
   --blue: #0055ff;
-  /* --font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
-  /* --font: Times; */
-  /* --font: my-awesome-font; */
---font: my-other-font;
+  /* --my-font: 'Vina Sans', cursive; */
+  --font: 'Lato', sans-serif;
+  --font-2: 'Poppins', sans-serif;
 }

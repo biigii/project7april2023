@@ -1,29 +1,27 @@
-@font-face {
-  font-family: my-awesome-font;
-  /* font-family: 'VinaSans Regular'; */
-  src: url('../fonts/VinaSans-Regular.ttf');
-}
-
-@font-face {
-  font-family: my-other-font ;
-  src: url('../fonts/Sigmar-Regular.ttf');
-}
-
 h1 {
   text-align: center;
-  text-transform: capitalize;
-  font-size: 4em;
-  color: var(--blue);
-  /* font-family:'Times New Roman', Times, serif;
-  font-family: Verdana, Geneva, Tahoma, sans-serif; */
-  /* font-family: var(--font); */
-  /* font-family: var(--font); */
-  /* font-family: 'Bruno Ace', cursive; */
-  font-family: 'Roboto Mono', monospace;
+  color: var(--red);
+  font-family: var(--font);
+  font-size: 6em;
+  /* font-style: italic; */
+  font-weight: 700;
+  /* text-decoration: line-through; */
+  text-transform: uppercase;
+  text-shadow: 5px 5px 10px #a22929;
+
 }
 
 p {
-  color: #f33;
-  font-size: 2em;
-  font-family: var(--font);
+  /* font-size: 2em; */
+  /* font-variant: small-caps; */
+  /* font-family: var(--font-2);
+  font-weight: 400;
+  line-height: 40px;
+  text-align: justify;
+  text-indent: 200px; */
+  /* text-shadow: 3px 3px #979393; */
+  /* letter-spacing: 5px; */
+ /* word-spacing: 20px */
+ /* font: italic small-caps bold 12px/30px Georgia, serif; */
+ /* font: italic 100 40px/30px var(--font-2); */
 }
