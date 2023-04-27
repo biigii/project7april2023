@@ -1,4 +1,8 @@
 :root {
   --red: #ff2200;
   --blue: #0055ff;
+  /* --font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  /* --font: Times; */
+  /* --font: my-awesome-font; */
+--font: my-other-font;
 }

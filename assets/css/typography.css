@@ -1,6 +1,29 @@
+@font-face {
+  font-family: my-awesome-font;
+  /* font-family: 'VinaSans Regular'; */
+  src: url('../fonts/VinaSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: my-other-font ;
+  src: url('../fonts/Sigmar-Regular.ttf');
+}
+
 h1 {
   text-align: center;
   text-transform: capitalize;
   font-size: 4em;
   color: var(--blue);
+  /* font-family:'Times New Roman', Times, serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  /* font-family: var(--font); */
+  /* font-family: var(--font); */
+  /* font-family: 'Bruno Ace', cursive; */
+  font-family: 'Roboto Mono', monospace;
+}
+
+p {
+  color: #f33;
+  font-size: 2em;
+  font-family: var(--font);
 }
